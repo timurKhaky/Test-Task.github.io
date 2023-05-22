@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.standart {
+  heigth: 100%;
+  min-width: 70px;
+  padding: 0.5rem;
+  background: #00a3ff;
+  border: none;
+}
+.pagination,
+.arrow {
+  width: 52px;
+  height: 52px;
+  border: 1px solid #a2a3a4;
+}
+.arrow {
+  padding: 0;
+  border: 0;
+}

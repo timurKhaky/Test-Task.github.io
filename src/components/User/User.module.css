@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  padding: 2rem;
+  align-items: flex-start;
+  font-size: large;
+}
+.owner {
+  width: 50%;
+  margin-bottom: 1rem;
+  gap: 2rem;
+}
+.btns {
+  display: flex;
+  width: 100%;
+  gap: 2rem;
+}

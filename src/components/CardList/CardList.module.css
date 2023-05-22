@@ -1,0 +1,9 @@
+.container {
+  min-height: 30wh;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+  width: 100%;
+  gap: 20px;
+}

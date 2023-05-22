@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  max-width: 100%;
+  height: 68px;
+  background: #dddddd;
+  padding: 2rem;
+  box-sizing: content-box;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  heigth: 100%;
+  min-width: 70px;
+  padding: 0.5rem;
+  background: #00a3ff;
+  border: none;
+}
